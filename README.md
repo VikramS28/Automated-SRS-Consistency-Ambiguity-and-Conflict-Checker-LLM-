@@ -1,1 +1,0 @@
-# Automated-SRS-Consistency-Ambiguity-and-Conflict-Checker-LLM-
